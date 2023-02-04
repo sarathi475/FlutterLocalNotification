@@ -14,8 +14,9 @@ Flutter notification example application. if you want clone or fork it.
 
 ## Pre-requirement:
 1. Flutter 3.3.10
-2. Dart 2.18.6
-3. shared_preferences 2.0.15
+2. Dart 2.18.6 
+3. awesome_notifications: ^0.7.4+1 
+4. http: ^0.13.1
 
 # Cli command
 ## check your flutter support info:
