@@ -65,6 +65,7 @@ class _AppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: 'Flutter Notifications sample',
       navigatorKey: MyApp.navigatorKey,
       onGenerateInitialRoutes: onGenerateInitialRoutes,
